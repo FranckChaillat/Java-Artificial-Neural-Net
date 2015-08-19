@@ -1,0 +1,11 @@
+1428665123727	Rename package 'org.jann.network'
+1428667396151	Rename method 'getWeightedSum'
+1428667952945	Delete element
+1428667955748	Delete element
+1428671991012	Rename local variable 'l'
+1428676226856	Rename type 'ActivationFunction'
+1428676283048	Move compilation unit
+1428676345629	Rename package 'org.jann.core.ActivationFunction'
+1428676357923	Move compilation unit
+1428676451364	Rename type 'ActivationFunction'
+1428676697949	Delete element
